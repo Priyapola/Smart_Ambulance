@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+librosa
+soundfile
+sounddevice
+numpy
+pandas
+scikit-learn
+flask
+requests
+paho-mqtt
+matplotlib

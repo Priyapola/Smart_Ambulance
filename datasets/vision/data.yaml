@@ -1,0 +1,15 @@
+
+
+
+train: D:/final_year_project/Smart_Ambulance/datasets/vision/images/train
+val: D:/final_year_project/Smart_Ambulance/datasets/vision/images/val
+
+nc: 6
+names: ['ambulance', 'auto', 'bike', 'bus', 'car', 'siren']
+
+roboflow:
+  workspace: ambulance-uj5pi
+  project: ambulance-sjpea
+  version: 20
+  license: Public Domain
+  url: https://universe.roboflow.com/ambulance-uj5pi/ambulance-sjpea/dataset/20
